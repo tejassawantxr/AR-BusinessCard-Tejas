@@ -19,7 +19,7 @@ public void ShowUrlFullScreen(string url)
             backgroundColor = "#FFFFFF",
             isNavigationBarVisible = true,
             navigationBarColor = "#4B96E6",
-            title = "The page title.",
+            title = url,
             isBackButtonVisible = true,
             isForwardButtonVisible = true,
             supportMultipleWindows = true,
